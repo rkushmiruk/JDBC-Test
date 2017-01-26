@@ -1,1 +1,1 @@
-JDBC programm
+JDBC program
